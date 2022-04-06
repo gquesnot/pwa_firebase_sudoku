@@ -1,0 +1,14 @@
+{
+  "name": "sudoku",
+  "short_name": "sudoku",
+  "lang": "fr-FR",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+  "icons": [{
+    "src": "images/logo.jpeg",
+    "sizes": "166x166",
+    "type": "image/png"
+  }]
+}
