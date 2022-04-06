@@ -1,10 +1,12 @@
 var cacheName = 'v2.1';
 var filesToCache = [
     '../images/logo.jpeg',
-    '/play-sudoku',
+    '/index.html',
     '/',
-    '../css/app.css',
-    '../js/app.js'
+    '../stylesheets/style.css',
+    '../javascripts/main.js',
+    '../javascripts/sudoku.js',
+    '../javascripts/firebase_functions.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
